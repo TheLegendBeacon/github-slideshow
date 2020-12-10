@@ -2,5 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+```
+>>> import Life
+...
+>>> Life.meaning
+Except Error: no error
+```
 Use the left arrow to go back!
